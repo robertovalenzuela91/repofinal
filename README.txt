@@ -43,4 +43,4 @@ Más Información
 Proyecto final de la materia de Visión Computacional de la carrera Ingeniería 
 en Tecnologías de Software, FIME,UANL.
 
-Impartida por la Dra. Satu Elisa Schaeffer en el periodo enero-agosto 2013
+Impartida por la Dra. Satu Elisa Schaeffer en el periodo enero-junio 2013

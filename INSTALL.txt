@@ -1,0 +1,25 @@
+INSTALL
+
+Para el funcionamiento de este programa se necesita lo siguiente: 
+	Opencv
+	Python 2.7 
+	Numpy
+	PIL
+
+Instalación de los paquetes utilizados en Ubuntu:
+ 
+-Python 2.7
+Linux- sudo apt-get install python
+
+-NumPy
+sudo apt-get install python python-tk idle python-pmw python-imaging
+
+
+-Opencv
+sudo apt-get install python-opencv
+
+
+-El software principal se ejecuta desde terminal con la siguiente línea
+python Final.py
+
+
